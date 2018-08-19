@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebJob", "NetCoreWebJob\NetCoreWebJob.csproj", "{D3A18208-1852-48F2-B7A7-9BCC2716F420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebJob.WebJob", "NetCoreWebJob.WebJob\NetCoreWebJob.WebJob.csproj", "{5058B242-A5D7-412A-BA2A-E6A1DA9D89AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A18208-1852-48F2-B7A7-9BCC2716F420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A18208-1852-48F2-B7A7-9BCC2716F420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A18208-1852-48F2-B7A7-9BCC2716F420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A18208-1852-48F2-B7A7-9BCC2716F420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5058B242-A5D7-412A-BA2A-E6A1DA9D89AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5058B242-A5D7-412A-BA2A-E6A1DA9D89AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5058B242-A5D7-412A-BA2A-E6A1DA9D89AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5058B242-A5D7-412A-BA2A-E6A1DA9D89AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A467DA44-F149-4995-857A-3FA8CD60CAFC}
+	EndGlobalSection
+EndGlobal

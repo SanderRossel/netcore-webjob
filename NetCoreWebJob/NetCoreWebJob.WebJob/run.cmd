@@ -1,0 +1,1 @@
+dotnet NetCoreWebJob.WebJob.dll
